@@ -8,7 +8,9 @@ Web Developer
 * ✉️  You can contact me at [isidoreuyaiabasi@gmail.com](mailto:isidoreuyaiabasi@gmail.com)
 * 🧠  I'm learning Typescript
 * 🤝  I'm open to collaborating on Projects on web development
+* 📝  I write on [https://dev.to/uyaiabasi](https://dev.to/uyaiabasi)
 * ⚡  I love cool animations
+* 📝  Join me on codewars [https://www.codewars.com/users/Uyai-Abasi](https://www.codewars.com/users/Uyai-Abasi)
 
 <a href="https://www.twitter.com/Beeauut" target="_blank" rel="noreferrer"><img
 src="https://img.shields.io/twitter/follow/Beeauut?logo=twitter&style=for-the-badge&color=0891b2&labelColor=1c1917"
