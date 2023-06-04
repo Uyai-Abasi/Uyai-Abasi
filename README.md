@@ -6,7 +6,7 @@ Web Developer
 
 * 🌍  I'm based in Nigeria
 * ✉️  You can contact me at [isidoreuyaiabasi@gmail.com](mailto:isidoreuyaiabasi@gmail.com)
-* 🧠  I'm learning Typescript
+* 🧠  I'm currently learning Typescript
 * 🤝  I'm open to collaborating on Projects on web development
 * 📝  I write on [https://dev.to/uyaiabasi](https://dev.to/uyaiabasi)
 * ⚡  I love cool animations
